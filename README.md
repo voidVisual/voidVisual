@@ -23,7 +23,7 @@ I thrive on building scalable cloud solutions and automating workflows to improv
 - Exploring **campus placement opportunities** in **DevOps and Cloud Engineering**.
 
 ## 📬 Connect with Me
-- 📧 Email: [omghorpade212000@gmail,com](mailto:omghorpade212000@gmail,com)
+- 📧 Email: [omghorpade212000@gmail,com](mailto:omghorpade212000@gmail.com)
 - 📱 Phone: +91-7058400269
 - 🔗 LinkedIn: [linkedin.com/in/omghorpade](www.linkedin.com/in/omghorpade)
 
