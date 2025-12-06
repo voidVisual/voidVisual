@@ -145,6 +145,8 @@ Currently pursuing **B.E. in Computer Engineering** at **SKNCOE Pune (2022-2026)
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidVisual&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
+---
+
 ## GitHub Trophies
 
 <div align="center">
