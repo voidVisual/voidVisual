@@ -257,7 +257,7 @@ open_source_goals:
 
 ---
 
-![Visitor Count](![](https://komarev.com/ghpvc/?username=voidVisual&color=00D9FF&style=flat-square&label=VISITOR+COUNT))
+![Visitor Count](https://visitcount.itsvg.in/api?id=voidVisual&icon=5&color=6)
 
 ---
 
