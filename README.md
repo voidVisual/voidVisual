@@ -136,16 +136,13 @@ Currently pursuing **B.E. in Computer Engineering** at **SKNCOE Pune (2022-2026)
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=voidVisual&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voidVisual&show_icons=true&theme=radical)
   
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=voidVisual&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=voidVisual&theme=radical)
   
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=voidVisual&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&layout=compact&langs_count=8" alt="Top Languages" />
-  
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidVisual&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=voidVisual&layout=compact&theme=radical)
 
 </div>
----
 
 ## GitHub Trophies
 
