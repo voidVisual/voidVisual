@@ -237,15 +237,6 @@ open_source_goals:
 
 ---
 
-## Contribution Graph
-
-<div align="center">
-  
-  ![Snake animation](https://raw.githubusercontent.com/voidVisual/voidVisual/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 ## 2025 Goals
 
