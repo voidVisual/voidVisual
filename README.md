@@ -1,8 +1,8 @@
 <div align="center">
   
-  # 👋 Hey there! I'm Om Ghorpade
+  # Hey there! I'm Om Ghorpade
   
-  ### 🚀 DevOps Engineer | Cloud Enthusiast | Automation Architect
+  ### DevOps Engineer | Cloud Enthusiast | Automation Architect
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Solutions;Automating+Everything+Possible;Container+Orchestration+Expert;CI%2FCD+Pipeline+Specialist;Infrastructure+as+Code+Advocate" alt="Typing SVG" />
 
@@ -10,51 +10,15 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-```python
-#!/usr/bin/env python3
+Tech-savvy engineering student with hands-on experience in **cloud technologies**, **automation**, **CI/CD pipelines**, **containerization**, and **infrastructure management**. Skilled in **AWS, Docker, Kubernetes, Terraform, Jenkins, and GitHub Actions**, with a strong ability to design scalable systems, automate workflows, and optimize performance. Passionate about building reliable solutions through **DevOps best practices**, problem-solving, and continuous learning.
 
-class Om_Ghorpade:
-    def __init__(self):
-        self.username = "voidVisual"
-        self.role = "DevOps & Cloud Engineer"
-        self.education = "B.E. Computer Engineering @ SKNCOE Pune (2022-2026)"
-        self.location = "Pune, Maharashtra, India 🇮🇳"
-        self.contact = "omghorpade212000@gmail.com"
-        
-    def expertise(self):
-        return {
-            "cloud": ["AWS", "Azure", "Google Cloud"],
-            "containers": ["Docker", "Kubernetes"],
-            "iac": ["Terraform", "Ansible"],
-            "cicd": ["Jenkins", "GitHub Actions"],
-            "monitoring": ["Prometheus", "Grafana", "Loki"],
-            "scripting": ["Python", "Bash", "PowerShell"]
-        }
-    
-    def current_mission(self):
-        return [
-            "🔧 Architecting scalable cloud infrastructure",
-            "⚙️ Automating deployment workflows",
-            "📊 Building robust monitoring systems",
-            "🐳 Mastering container orchestration",
-            "🌩️ Optimizing cloud-native applications"
-        ]
-    
-    def philosophy(self):
-        return "Automate everything, monitor always, deploy fearlessly! 🚀"
-
-if __name__ == "__main__":
-    me = Om_Ghorpade()
-    print(me.philosophy())
-```
-
-Tech-savvy engineering student with hands-on experience in **cloud technologies**, **automation**, **CI/CD pipelines**, **containerization**, and **infrastructure management**. Passionate about designing scalable systems, automating workflows, and optimizing performance through **DevOps best practices**, problem-solving, and continuous learning.
+Currently pursuing **B.E. in Computer Engineering** at **SKNCOE Pune (2022-2026)** and actively exploring advanced cloud-native technologies, infrastructure as code, and container orchestration.
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <div align="center">
   
@@ -70,10 +34,10 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <details open>
-<summary><b>☁️ Cloud Platforms</b></summary>
+<summary><b>Cloud Platforms</b></summary>
 <br>
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -83,7 +47,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>🐳 Containers & Orchestration</b></summary>
+<summary><b>Containers & Orchestration</b></summary>
 <br>
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -92,7 +56,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>⚙️ Infrastructure as Code & Configuration Management</b></summary>
+<summary><b>Infrastructure as Code & Configuration Management</b></summary>
 <br>
 
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -101,7 +65,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>🔄 CI/CD & Version Control</b></summary>
+<summary><b>CI/CD & Version Control</b></summary>
 <br>
 
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
@@ -113,7 +77,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>📊 Monitoring & Observability</b></summary>
+<summary><b>Monitoring & Observability</b></summary>
 <br>
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
@@ -122,7 +86,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>💾 Databases</b></summary>
+<summary><b>Databases</b></summary>
 <br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -134,7 +98,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>💻 Programming & Scripting</b></summary>
+<summary><b>Programming & Scripting</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -148,7 +112,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>🌐 Web Technologies & Servers</b></summary>
+<summary><b>Web Technologies & Servers</b></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -158,7 +122,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 </details>
 
 <details open>
-<summary><b>🛠️ Tools & Utilities</b></summary>
+<summary><b>Tools & Utilities</b></summary>
 <br>
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -168,7 +132,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   
@@ -184,7 +148,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
   
@@ -194,7 +158,7 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 
 ---
 
-## 🔝 Top Contributed Repositories
+## Top Contributed Repositories
 
 <div align="center">
   
@@ -204,24 +168,24 @@ Tech-savvy engineering student with hands-on experience in **cloud technologies*
 
 ---
 
-## 🎓 Certifications & Learning Path
+## Certifications & Learning Path
 
 <div align="center">
 
 | Certification | Provider | Status |
 |--------------|----------|--------|
-| 🏅 AWS Cloud Practitioner Essentials | Amazon Web Services | ✅ Completed |
-| 🏅 AWS SimuLearn: Cloud Practitioner | Amazon Web Services | ✅ Completed |
-| 🏅 AWS Educate Introduction to Cloud 101 | Amazon Web Services | ✅ Completed |
-| 🏅 Getting Started with AWS CloudFormation | Amazon Web Services | ✅ Completed |
-| 🐳 Docker | KodeKloud | ✅ Completed |
-| ☸️ Distributed E-commerce with Microservices & Kubernetes | Various | ✅ Completed |
+| AWS Cloud Practitioner Essentials | Amazon Web Services | Completed |
+| AWS SimuLearn: Cloud Practitioner | Amazon Web Services | Completed |
+| AWS Educate Introduction to Cloud 101 | Amazon Web Services | Completed |
+| Getting Started with AWS CloudFormation | Amazon Web Services | Completed |
+| Docker | KodeKloud | Completed |
+| Distributed E-commerce with Microservices & Kubernetes | Various | Completed |
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## Currently Exploring
 
 ```yaml
 current_learning:
@@ -244,26 +208,26 @@ open_source_goals:
 
 ---
 
-## 💡 DevOps Philosophy
+## DevOps Philosophy
 
 <div align="center">
 
-### 🚀 My Core Principles
+### My Core Principles
 
 | Principle | Description |
 |-----------|-------------|
-| **⚡ Automate Everything** | If you do it twice, automate it |
-| **📊 Observability First** | You can't improve what you can't measure |
-| **🔄 Continuous Improvement** | Small iterations lead to big wins |
-| **🛡️ Security by Default** | Security isn't a feature, it's a requirement |
-| **📚 Document Everything** | Today's documentation is tomorrow's time saver |
-| **🤝 Collaborate & Share** | Knowledge grows when shared |
+| **Automate Everything** | If you do it twice, automate it |
+| **Observability First** | You can't improve what you can't measure |
+| **Continuous Improvement** | Small iterations lead to big wins |
+| **Security by Default** | Security isn't a feature, it's a requirement |
+| **Document Everything** | Today's documentation is tomorrow's time saver |
+| **Collaborate & Share** | Knowledge grows when shared |
 
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+## Random Dev Quote
 
 <div align="center">
   
@@ -273,7 +237,7 @@ open_source_goals:
 
 ---
 
-## 📈 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   
@@ -283,20 +247,20 @@ open_source_goals:
 
 ---
 
-## 🎯 2025 Goals
+## 2025 Goals
 
-- ✅ Master Kubernetes & Cloud-Native Technologies
-- ✅ Contribute to 10+ Open Source Projects
-- ✅ Build Production-Grade Infrastructure
-- ✅ Achieve AWS Solutions Architect Certification
-- ✅ Share Knowledge through Technical Blogs
-- ✅ Build DevOps Community
+- Master Kubernetes & Cloud-Native Technologies
+- Contribute to 10+ Open Source Projects
+- Build Production-Grade Infrastructure
+- Achieve AWS Solutions Architect Certification
+- Share Knowledge through Technical Blogs
+- Build DevOps Community
 
 ---
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together!
+### Let's Build Something Amazing Together!
 
 **"In DevOps, we don't just deploy code—we deliver experiences, reliability, and trust."**
 
@@ -306,8 +270,8 @@ open_source_goals:
 
 ---
 
-⭐️ **From [voidVisual](https://github.com/voidVisual) with 💙**
+**From [voidVisual](https://github.com/voidVisual)**
 
-**Made with ❤️ and lots of ☕**
+**Made with passion and lots of coffee**
 
 </div>
