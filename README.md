@@ -36,7 +36,7 @@ Currently pursuing **B.E. in Computer Engineering** at **SKNCOE Pune (2022-2026)
 
 ## Tech Stack
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### **Cloud Platforms**
 AWS | Microsoft Azure | Google Cloud Platform
