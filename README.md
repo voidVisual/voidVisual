@@ -196,7 +196,7 @@ open_source_goals:
 
 
 
-## 2025 Goals
+## Goals
 
 - Master Kubernetes & Cloud-Native Technologies
 - Contribute to 10+ Open Source Projects
@@ -210,8 +210,6 @@ open_source_goals:
 <div align="center">
 
 ### Let's Build Something Amazing Together!
-
-**"In DevOps, we don't just deploy code—we deliver experiences, reliability, and trust."**
 
 ---
 
