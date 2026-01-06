@@ -4,7 +4,7 @@
   
   ### DevOps Engineer | Cloud Enthusiast | Automation Architect
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Cloud+Solutions;Automating+Everything+Possible;Container+Orchestration+Expert;CI%2FCD+Pipeline+Specialist;Infrastructure+as+Code+Advocate" alt="Typing SVG" />
+ 
 
 </div>
 
@@ -194,15 +194,6 @@ open_source_goals:
 
 ---
 
-## Random Dev Quote
-
-<div align="center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
 
 
 ## 2025 Goals
