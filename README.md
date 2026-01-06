@@ -130,36 +130,10 @@ Currently pursuing **B.E. in Computer Engineering** at **SKNCOE Pune (2022-2026)
 
 </details>
 
----
 
-## GitHub Analytics
 
-<div align="center">
-  <img width="80%" src="https://nirzak-streak-stats.vercel.app/?user=voidVisual&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak" />
-  <img width="80%" src="https://github-readme-activity-graph.vercel.app/graph?username=voidVisual&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph" />
-</div>
 
----
 
-## GitHub Trophies
-
-<div align="center">
-  
-  ![](https://github-profile-trophy.vercel.app/?username=voidVisual&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
-
-</div>
-
----
-
-## Top Contributed Repositories
-
-<div align="center">
-  
-  ![](https://github-contributor-stats.vercel.app/api?username=voidVisual&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)
-
-</div>
-
----
 
 ## Certifications & Learning Path
 
