@@ -28,7 +28,7 @@ Currently pursuing **B.E. in Computer Engineering** at **SKNCOE Pune (2022-2026)
   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/om_ghorpade_21)
   [![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/voidvisual)
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=voidVisual&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+  
 
 </div>
 
@@ -215,12 +215,7 @@ open_source_goals:
 
 ---
 
-![Visitor Count](https://komarev.com/ghpvc/?username=voidVisual&color=00D9FF&style=flat-square&label=VISITOR+COUNT)
 
----
 
-**From [voidVisual](https://github.com/voidVisual)**
-
-**Made with passion and lots of coffee**
 
 </div>
